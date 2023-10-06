@@ -1,8 +1,10 @@
 
 
-This is a simple weather app built with Next.js
+
 
 # Getting Started with Create React App
+
+This is a simple weather app built with Next.js
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
